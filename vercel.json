@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/orvane",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/orvane-particle-hero",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/sorvine",
+      "destination": "/index.html"
+    }
+  ]
+}
