@@ -1,1 +1,1 @@
-const path=window.location.pathname.replace(/\/+$/,'').toLowerCase();if(path==='/orvane'||path==='/orvane-particle-hero')import('./orvane-v2.js');else if(path==='/sorvine')import('./sorvine.js');else import('./library.js');
+const path=window.location.pathname.replace(/\/+$/,'').toLowerCase();if(path==='/orvane'||path==='/orvane-particle-hero')import('./orvane-rebuilt.js');else if(path==='/sorvine')import('./sorvine.js');else import('./library.js');
